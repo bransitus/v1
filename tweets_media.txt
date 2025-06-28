@@ -10,7 +10,7 @@ text: test 안녕하세요 (Slot viral)
 Link Movie: 🔗 https://cutt.ly/exoticantstore
 
 
-media: (isi hanya url/link gambar, contoh: https://google.com/gambar1.jpg)
+media: (isi hanya url/link gambar, contoh: https://ik.imagekit.io/xsmscwzopz/pencarianexotic.jpg?updatedAt=1751079276770)
 url: (boleh di kosongin)
 hashtags: #film #slotonline #slotviral #situs303
 ---
